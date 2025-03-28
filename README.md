@@ -1,2 +1,2 @@
-# iris_playground
-Iris playground
+# Behavior Cloning with World Models
+In this project, we combine behavior cloning and world models, two techniques that are frequently used for their in-environment sample efficiency. Building on IRIS1, a recent transformer-based world model system, we evaluate our approach using 3 Atari environments of differing difficulty levels from the Atari100k2 benchmark. We explore different methods of using behavior cloning and our findings show that IRIS agents trained with behavior cloning outperform the baseline model in all of our environments.
